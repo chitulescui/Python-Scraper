@@ -1,4 +1,4 @@
-# Python-Scraper
+# Youtube Python-Scraper 
 Web scraper for Youtube playlist using Selenium and Python.The scraper will retreive the following informations:
 * Playlist Title
 * Channel Name
